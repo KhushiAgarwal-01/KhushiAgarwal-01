@@ -3,7 +3,7 @@
 <h3 align="center">A Passionate Full Stack Developer with strong problem solving skill</h3>
 
 <div align="center" >
-<!--   <img width="400" src="[https://dev.to/copilotkit/20-projects-you-can-build-with-ai-today-352k](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8wL714ufXjCl3MJlWViqM9x7SO9rQ5Kf4dSu5oMVEm09fV5Jq)" alt="coding"> -->
+  <img width="400"  height="300" src="https://i0.wp.com/assets-global.website-files.com/59e16042ec229e00016d3a66/5dfbd748bfea53eb0216a2df_digital-marketing-listing.gif" alt="coding">
 </div>
 
 
@@ -32,6 +32,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
+
 - 📫 How to reach me **agarwalkhushi308@gmail.com**
 
 <p align="left">
