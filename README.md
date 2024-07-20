@@ -36,7 +36,7 @@
 - 📫 How to reach me **agarwalkhushi308@gmail.com**
 
 <p align="left">
-<a href="https://linkedin.com/in/khushi agarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khushi agarwal" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/khushi-agarwal-61634124a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khushi agarwal" height="30" width="40" /></a>
 <a href="https://instagram.com/khushi_agarwal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khushi_agarwal_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/khushi_agarwal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khushi_agarwal_" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/khushi_agarwal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="khushi_agarwal_" height="30" width="40" /></a>
