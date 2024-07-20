@@ -1,9 +1,10 @@
 
-preview
 <h1 align="center">Hi 👋, I'm Khushi Agarwal</h1>
 <h3 align="center">A Passionate Full Stack Developer with strong problem solving skill</h3>
 
-
+<div align="center" >
+<!--   <img width="400" src="[https://dev.to/copilotkit/20-projects-you-can-build-with-ai-today-352k](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8wL714ufXjCl3MJlWViqM9x7SO9rQ5Kf4dSu5oMVEm09fV5Jq)" alt="coding"> -->
+</div>
 
 
 
