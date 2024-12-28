@@ -13,26 +13,16 @@
 
 
 
-<span>Languages</span> 
 
-[![My Skills](https://skillicons.dev/icons?i=js,cpp,c)](https://skillicons.dev)
 
-<span>Frontend</span>
-  
+
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,cpp,c)](https://skillicons.dev) 
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,tailwind,redux,bootstrap)](https://skillicons.dev)
-
-<span>Backend</span>
- 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,npm)](https://skillicons.dev)
-
-<span>Databases</span>
-  
 [![My Skills](https://skillicons.dev/icons?i=mongo,mysql)](https://skillicons.dev)
-
-<span>Tools</span>
- 
 [![My Skills](https://skillicons.dev/icons?i=git,github,firebase,postman,vscode)](https://skillicons.dev)
-
 
 
 
